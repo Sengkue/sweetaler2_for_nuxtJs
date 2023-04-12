@@ -1,0 +1,1 @@
+# sweetaler2_for_nuxtJs
